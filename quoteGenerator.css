@@ -1,0 +1,50 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1{
+    font-size: 30px;
+    color:darkblue;
+    background-color: white;
+}
+#head{
+    background-color:lightblue;
+}
+label{
+    font-size: 20px;
+    color:darkblue;
+    background-color: white;
+}
+button{
+    width: 150px;
+    height: 60px;
+    padding: 20px;
+    margin-top: 10px;
+    border:2px solid white;
+    border-radius: 2px;
+    color:white;
+    background-color: darkblue;
+    font-size: 20px;
+    text-align: center;
+
+}
+button:hover{
+    background-color: darkblue;
+    color:white;
+    cursor: pointer;
+    
+}
+.generator{
+    margin-left:35%;
+    margin-top:8%;
+    width: 650px;
+    height: 250px;
+    background-color: white;
+    border:5px solid darkblue;
+    
+    
+    
+}
